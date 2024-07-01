@@ -3,6 +3,7 @@ VMRPG Discord Bot
 Welcome to the VMRPG Discord Bot! This bot brings an exciting text-based RPG experience to your Discord server, allowing you to embark on thrilling adventures, battle fierce monsters, and grow stronger with each victory. Below you’ll find all the details about the features and functions of the bot.
 
 current issues: auto mode doesn't work, quest don't work either
+
 Features
 
 	•	Race and Class Selection: Choose from a variety of races (Demon, Human, Elf, Dwarf) and classes (Warrior, Mage, Rogue, Assassin, Necromancer, Healer) to create your unique character.
